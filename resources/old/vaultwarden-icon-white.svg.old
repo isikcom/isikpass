@@ -2,7 +2,7 @@
      width="256" height="256"
      viewBox="0 0 256 256"
      fill="none"
-     stroke="#ffffff"
+     stroke="#f0e523"
      stroke-width="2"
      stroke-linecap="round"
      stroke-linejoin="round">
@@ -11,18 +11,19 @@
              xmlns:dc="http://purl.org/dc/elements/1.1/"
              xmlns:cc="http://creativecommons.org/ns#">
       <cc:Work rdf:about="">
-        <dc:title><![CDATA[ISIKCOM globe white]]></dc:title>
+        <dc:title><![CDATA[ISIKCOM globe]]></dc:title>
         <dc:creator>
           <cc:Agent>
-            <dc:title><![CDATA[ISIKCOM]]></dc:title>
+            <dc:title><![CDATA[ISIKCOM globe]]></dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:description><![CDATA[ISIKCOM Logo in Weiß]]></dc:description>
+        <dc:description><![CDATA[ISIKCOM Logo]]></dc:description>
         <dc:date>2025-08-09</dc:date>
         <dc:rights><![CDATA[by isikcom]]></dc:rights>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <!-- ====================================== -->
 
   <g transform="scale(10.6666667)">
     <circle cx="12" cy="12" r="10" />
