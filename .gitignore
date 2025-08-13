@@ -4,6 +4,8 @@ target
 # Data folder
 data
 
+.svg
+
 # IDE files
 .vscode
 .idea
